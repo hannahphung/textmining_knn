@@ -1,0 +1,3 @@
+C1:['company', 'state', 'concern', 'airline', 'aviation', 'flight', 'safety']
+C4:['country', 'case', 'time', 'mouth', 'disease']
+C7:['issue', 'year', 'time']

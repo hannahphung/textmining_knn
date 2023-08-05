@@ -1,0 +1,3 @@
+C1:['company', 'state', 'concern', 'air', 'aircraft', 'airline', 'aviation', 'civil', 'flight', 'safety', 'international']
+C4:['country', 'case', 'time', 'mouth', 'animal', 'disease', 'farmer', 'hoof', 'sheep']
+C7:['bank', 'cost', 'government', 'issue', 'loan', 'low', 'lower', 'mortgage', 'policy', 'rate', 'year', 'time']
